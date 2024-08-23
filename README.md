@@ -1,1 +1,3 @@
-# ECE2112_Exp-1
+# ECE2112_Experiment-1
+
+This experiment is about Base Computing (Part 1) with Python Programming..
