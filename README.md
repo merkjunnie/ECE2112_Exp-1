@@ -9,3 +9,5 @@ I'm still diving deep into Python, exploring the basics, and starting to write s
 - Get comfortable with Python syntax and basic concepts.
 - Master the fundamentals and the functions of Python
 - Apply my learnings and build unique innovative things enough to share with the world.
+
+*This repository is for my outputs in ECE2112 programming assignments*
